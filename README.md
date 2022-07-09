@@ -42,5 +42,5 @@ Tab1:AddBind({
 					bruh:Disconnect()
 					Partz:Destroy()
 				end
-	end    
+	end     
 })
